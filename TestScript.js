@@ -1,1 +1,1 @@
-Version 1 - JS code
+console.log('Version 1 - JavaScript code');
